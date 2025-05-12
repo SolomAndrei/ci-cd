@@ -7,7 +7,7 @@ function App() {
 
     return (
         <div className="App">
-            <h1 style={{ fontSize: 70, color: 'red' }}>value = {counter}</h1>
+            <h1 style={{ fontSize: 80, color: 'green' }}>value = {counter}</h1>
             <button
                 style={{ background: 'black', color: 'white', padding: 15 }}
                 onClick={increment}
