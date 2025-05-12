@@ -1,1 +1,1 @@
-console.log('Проверка типов...')
+console.log('type checking...')

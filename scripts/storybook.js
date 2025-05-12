@@ -1,1 +1,1 @@
-console.log('Сборка сторибук...')
+console.log('build storybook...')

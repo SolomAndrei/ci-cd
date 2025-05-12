@@ -1,1 +1,1 @@
-console.log('Проверка линтером...')
+console.log('check linter...')
